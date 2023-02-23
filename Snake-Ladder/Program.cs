@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("welcome to Snake and Ladder");
+            int position = 0;
+            int playerOne;
+            playerOne = position;
+            Console.WriteLine("....Snake And Ladder....");
+            Console.WriteLine("position of the playerone is =" + playerOne);
         }
     }
 }
